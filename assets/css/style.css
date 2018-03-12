@@ -1,0 +1,39 @@
+body {
+    background-color: lightgray;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #ffffff;
+    /* border-block-end-color: #cccccc; */
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    /* z-index: 1; */
+}
+
+footer {
+    /* align-content: right; */
+    
+}
+
+/* div {
+    height: 100px;
+    width: 100px;
+} */
+
+
+
+
+
